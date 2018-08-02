@@ -1,6 +1,6 @@
 -- specify the SSID and PASSWORD for your AP 
-ssid   = "Wifi-SSID" 
-passwd = "Wifi-Password" 
+ssid   = "NNR-Devices" 
+passwd = "0882614957" 
 
 --print ("Setting up WiFi...")
 wifi.setmode(wifi.STATION) -- configure the device as a station (STA)
